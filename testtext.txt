@@ -1,0 +1,1 @@
+The data in the network model are represented by collection of records and relationships among data are represented by links which can be viewed as pointers.
